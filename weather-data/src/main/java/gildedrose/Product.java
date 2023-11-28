@@ -2,6 +2,9 @@ package gildedrose;
 
 public class Product {
 
+    /**
+     * This is the quality of the product.
+     */
     private int quality;
 
     private QualityCalculation calculation;
