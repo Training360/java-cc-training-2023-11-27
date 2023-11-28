@@ -7,9 +7,9 @@ import lombok.Value;
 // @Embeddable
 public class Name {
 
-    private String forName;
+    String forName;
 
-    private String middleName;
+    String middleName;
 
-    private String secondName;
+    String secondName;
 }
